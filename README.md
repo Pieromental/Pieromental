@@ -79,7 +79,7 @@
 ###
 
 <h3 align="left">🔥 My Stats :</h3>
-<div justify-content: space-between; align-items: center;"> style="display: flex; flex-direction: row; 
+<div style="display: flex; flex-direction: row;">  
   <div style="flex: 1; margin-right: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=pieromental&show_icons=true&theme=radical" alt="pieromental" style="width: 100%; max-width: 150px;" />
   </div>
