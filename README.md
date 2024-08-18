@@ -79,5 +79,4 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-[[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pieromental)](https://github.com/anuraghazra/github-readme-stats)](https://github-readme-stats.vercel.app/api?username=pieromental)
-###
+<p><img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=pieromental&show_icons=true&locale=en&layout=compact](https://github-readme-stats.vercel.app/api?username=pieromental)" alt="pieromental" /></p>
