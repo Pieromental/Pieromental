@@ -7,7 +7,7 @@
 <a href="https://github.com/Pieromental" target="_blank">
   <img 
     align="center" 
-    src="https://drive.google.com/file/d/10OfLep7X_3E_FR1D2PNRAXoEE53A9Y_c/view?usp=drive_link" 
+    src="https://media.licdn.com/dms/image/v2/D4E16AQGL1Nu8NeTuKA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723974195267?e=1729728000&v=beta&t=l7LI6tHlChbtsaE7v3F53CRKb6Scc1KpismhRLVMdco" 
     alt="Pieromental" 
     style="width: 740px; height: 350px;"
   />
