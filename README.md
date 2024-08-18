@@ -79,8 +79,8 @@
 ###
 
 <h3 align="left">🔥 My Stats :</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=pieromental&show_icons=true&theme=radical" alt="pieromental" style="width: 50%; max-width: 200px;" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pieromental&layout=compact" alt="pieromental" style="width: 50%; max-width: 200px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=pieromental&show_icons=true&theme=radical" alt="pieromental" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pieromental&layout=compact" alt="pieromental" />
  
 
 
