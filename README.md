@@ -78,14 +78,13 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
 <h3 align="left">🔥 My Stats :</h3>
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
   <div style="flex: 1; margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=pieromental&show_icons=true&theme=radical" alt="pieromental" style="width: 100%;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=pieromental&show_icons=true&theme=radical" alt="pieromental" style="width: 45%;" />
   </div>
   <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pieromental&layout=compact" alt="pieromental" style="width: 100%;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pieromental&layout=compact" alt="pieromental" style="width: 45%;" />
   </div>
 </div>
 
