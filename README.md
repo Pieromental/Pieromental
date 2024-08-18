@@ -79,11 +79,11 @@
 ###
 
 <h3 align="left">🔥 My Stats :</h3>
-<div style="display: flex; flex-direction: row; justify-content: space-around; align-items: center;">
-  <div style="flex: 1; padding: 5px;">
+<div style="display: grid ; grid-template-columns: 1fr 1fr; ">
+  <div style="padding:1rem;">
     <img src="https://github-readme-stats.vercel.app/api?username=pieromental&show_icons=true&theme=radical" alt="pieromental" style="width: 50%; max-width: 200px;" />
   </div>
-  <div style="flex: 1; padding: 5px;">
+  <div style="padding:1rem;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pieromental&layout=compact" alt="pieromental" style="width: 50%; max-width: 200px;" />
   </div>
 </div>
